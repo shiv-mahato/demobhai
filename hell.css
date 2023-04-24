@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 /* write something, man */
+=======
+*{
+    margin: 50;
+    background-color: aqua;
+}
+.to{
+    background-color: aqua;
+}
+.two{
+    height: 50;
+    width: 50;
+    
+}
+>>>>>>> f4aab0d9055b65e2b2dc8ab3838544e58b74cc03
