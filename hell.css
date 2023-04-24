@@ -1,6 +1,7 @@
-* {
-    margin: 50;
-    background-color: aqua;
+
+*{
+    /* margin: 50; */
+    /* background-color: aqua; */
 }
 
 .to {
@@ -10,4 +11,14 @@
 .two {
     height: 50;
     width: 50; 
+}
+
+/* spring.datasource.url=jdbc:postgresql://ep-wandering-waterfall-802651.ap-southeast-1.aws.neon.tech/neondb?user=kamranmohd89&password=5tLZHMUWEy9f */
+#hii{
+    padding: 1%;
+    /* margin: 2%; */
+    background-color:rgb(192, 238, 199);
+    /* box-sizing: border-box; */
+width: 30%;
+height: 20%;
 }
